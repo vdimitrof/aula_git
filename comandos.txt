@@ -7,3 +7,8 @@ git add . - adiciona todos os arquivos para serem commitados
 git add nomeArquivo - adiciona um arquivo especifico para o commit
 git add --all - adiciona todos os arquivos para serem commitados
 git commit -m "" - adicionar uma - cria a versao do projeto
+git branch = qual branch estamos
+git branch nova-branch - para criar a branchj com respectivo nome 
+git checkout nome-da-branch - comando para mudar de branchgit 
+teste
+teste23
